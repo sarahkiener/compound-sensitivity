@@ -23,7 +23,7 @@ The new metrics were trained on the to-German segments from the test set of the 
 
 The new metrics were evaluated on the `en-de` protion of the official WMT 2020 Metrics Shared Task test set that can be downloaded from [here](https://drive.google.com/drive/folders/1n_alr6WFQZfw4dcAmyxow4V8FC67XD8p). 
 
-The scripts used to prepare the train and dev and sets are included in the folder `data_preparation`. The procedure to create the test set is described [below](##Evaluation-of-GBLEURT,-GCOMET-and-COMET-Contrastive). 
+The scripts used to prepare the train and dev and sets are included in the folder `data_preparation`. The procedure to create the test set is described [below](##Evaluation-of-GBLEURT,-GCOMET-and-COMET\-Contrastive). 
 
 
 
