@@ -6,7 +6,7 @@ The first part of the thesis focuses on a case study on COMET-20. A semi-automat
 
 The second part of the thesis is devoted to strategies that may enhance the sensitivity of a neural metric towards German compounds. Mainly, the thesis investigates the effect of WWM during pre-training of the underlying language models on the sensitivity of a neural metric towards German compounds and other linguistic phenomena. To this end, [new metric models](#Training-of-New-Metrics) have been trained.
 
-The newly trained metrics [GBLEURT](#GBLEURT) and [GCOMET](#GCOMET) are described below. The section [MBR-Based Sensitivity Analysis](#MBR-Based-Sensitivity-Analysis) outlines the method used to measure the sensitivity of the studied metrics towards certain linguistic phenomena, i.e. compounds, nouns, named entities and numbers.
+The newly trained metrics [GBLEURT](#GBLEURT) and [GCOMET](#GCOMET) are described below. They can be downloaded from Google Drive. Unpack the `.tar` archive and place the two GBLEURT models in `gbleurt/models` and the three COMET-based models in `gcomet/models`. The section [MBR-Based Sensitivity Analysis](#MBR-Based-Sensitivity-Analysis) outlines the method used to measure the sensitivity of the studied metrics towards certain linguistic phenomena, i.e. compounds, nouns, named entities and numbers.
 
 
 
@@ -152,10 +152,10 @@ To specifically score the [WMT 2020 Metrics Shared Task](https://www.statmt.org/
 cd gcomet
 python3 comet_scoring_testset.py \
 		--model_name gcomet-wwm \
-		--model_path models/gcomet-wwm \
+		--model_path models/gcomet-wwm/epoch=2-step=11130.ckpt \
 		--test_data ../prepared_data/2020-de-da-official-testset.csv
 ``` 
-For GCOMET-SWM and COMET-Contrastive, adjust the `model_name` and `model_path` accordingly.
+For GCOMET-SWM and COMET-Contrastive, adjust the `model_path` to `models/gcomet-swm/epoch=2-step=11130.ckpt` and `models/comet-contrastive/epoch=4-step=18550.ckpt` respectively and change `model_name` accordingly.
 
 
 ### MBR Decoding with GCOMET and COMET-Contrastive
@@ -165,14 +165,14 @@ To run MBR decoding with GCOMET-WWM:
 ```bash
 cd gcomet
 python3 run_mbr_source-free.py \
-		-m models/gcomet-wwm \
+		-m models/gcomet-wwm/epoch=2-step=11130.ckpt \
 		-t ../prepared_data/en-de.samples \
 		-c ../prepared_data/en-de.samples \
 		-o ../mbr_translations/gcomet-wwm_en-de.txt \
 		-ns 100 \
 		-nc 100
 ```
-For GCOMET-SWM and COMET-Contrastive, adjust the model path and output filename accordingly. 
+For GCOMET-SWM and COMET-Contrastive, adjust the model path and output filename accordingly. Change the paths to `models/gcomet-swm/epoch=2-step=11130.ckpt` and `models/comet-contrastive/epoch=4-step=18550.ckpt` respectively. 
 
 
 
@@ -240,7 +240,7 @@ To run MBR decoding with GCOMET-WWM writing the average score per candidate to a
 ```bash
 cd gcomet
 python3 run_mbr_source-free_with-scores.py \
-		-m models/gcomet-wwm \
+		-m models/gcomet-wwm/epoch=2-step=11130.ckpt \
 		-t ../prepared_data/en-de.samples \
 		-c ../prepared_data/en-de.samples \
 		-j ../mbr_translations/gcomet-wwm_scores.json \
@@ -275,8 +275,8 @@ To run the sensitivity analysis for compounds with GBLEURT:
 cd gbleurt
 python3 run_mbr_for_sensitivity_gbleurt.py \
 		-m gbleurt-wwm \
-		-r ../sensitivity_analysis/compound-sensitivity_en-de_refs.txt \
-		-j ../sensitivity_analysis/compound-sensitivity_en-de.json \
+		-r ../sensitivity_analysis/challenge_sets/compound-sensitivity_en-de_refs.txt \
+		-j ../sensitivity_analysis/challenge_sets/compound-sensitivity_en-de.json \
 		-o ../sensitivity_analysis/results/gbleurt-wwm_compound-sensitivity_en-de.json \
 		-ns 2
 ```
@@ -286,8 +286,8 @@ To run the sensitivity analysis for nouns, named entities and numbers with GBLEU
 cd gbleurt
 python3 run_mbr_for_sensitivity_gbleurt.py \
 		-m gbleurt-wwm \
-		-r ../sensitivity_analysis/ne-num-sensitivity_en-de_refs.txt \
-		-j ../sensitivity_analysis/ne-num-sensitivity_en-de.json \
+		-r ../sensitivity_analysis/challenge_sets/ne-num-sensitivity_en-de_refs.txt \
+		-j ../sensitivity_analysis/challenge_sets/ne-num-sensitivity_en-de.json \
 		-o ../sensitivity_analysis/results/gbleurt-wwm_ne-num-sensitivity_en-de.json \
 		-ns 2
 ```
@@ -299,9 +299,9 @@ To run the sensitivity analysis for compounds with GCOMET or COMET-Contrastive:
 ```bash
 cd gcomet
 python3 run_mbr_for_sensitivity_source-free.py \
-		-m gcomet-wwm \
-		-r ../sensitivity_analysis/compound-sensitivity_en-de_refs.txt \
-		-j ../sensitivity_analysis/compound-sensitivity_en-de.json \
+		-m models/gcomet-wwm/epoch=2-step=11130.ckpt \
+		-r ../sensitivity_analysis/challenge_sets/compound-sensitivity_en-de_refs.txt \
+		-j ../sensitivity_analysis/challenge_sets/compound-sensitivity_en-de.json \
 		-o ../sensitivity_analysis/results/gcomet-wwm_compound-sensitivity_en-de.json \
 		-ns 2
 ```
@@ -310,13 +310,13 @@ To run the sensitivty analysis for nouns, named entities and numbers with GCOMET
 ```bash
 cd gcomet
 python3 run_mbr_for_sensitivity_source-free.py \
-		-m gcomet-wwm \
-		-r ../sensitivity_analysis/ne-num-sensitivity_en-de_refs.txt \
-		-j ../sensitivity_analysis/ne-num-sensitivity_en-de.json \
+		-m models/gcomet-wwm/epoch=2-step=11130.ckpt \
+		-r ../sensitivity_analysis/challenge_sets/ne-num-sensitivity_en-de_refs.txt \
+		-j ../sensitivity_analysis/challenge_sets/ne-num-sensitivity_en-de.json \
 		-o ../sensitivity_analysis/results/gcomet-wwm_ne-num-sensitivity_en-de.json \
 		-ns 2
 ```
-To run the sensitivity analyses for GCOMET-SWM or COMET-Contrastive, adjust the model path to `-m gcomet-swm` or `-m comet-contrastive` respectively.
+To run the sensitivity analyses for GCOMET-SWM or COMET-Contrastive, adjust the model path to `-m gcomet-swm/epoch=2-step=11130.ckpt` or `-m comet-contrastive/epoch=4-step=18550.ckpt` respectively.
 
 
 ### Sensitivity Analysis with COMET-20
@@ -325,8 +325,8 @@ To run the sensitivity analysis for compounds with COMET-20:
 cd gcomet
 python3 run_mbr_for_sensitivity_comet-20.py \
 		-m wmt20-comet-da \
-		-r ../sensitivity_analysis/compound-sensitivity_en-de_refs.txt \
-		-j ../sensitivity_analysis/compound-sensitivity_en-de.json \
+		-r ../sensitivity_analysis/challenge_sets/compound-sensitivity_en-de_refs.txt \
+		-j ../sensitivity_analysis/challenge_sets/compound-sensitivity_en-de.json \
 		-o ../sensitivity_analysis/results/comet-20_compound-sensitivity_en-de.json \
 		-ns 2
 ```
@@ -336,8 +336,8 @@ To run the sensitivty analysis for nouns, named entities and numbers with COMET-
 cd gcomet
 python3 run_mbr_for_sensitivity_comet-20.py \
 		-m wmt20-comet-da \
-		-r ../sensitivity_analysis/ne-num-sensitivity_en-de_refs.txt \
-		-j ../sensitivity_analysis/ne-num-sensitivity_en-de.json \
+		-r ../sensitivity_analysis/challenge_sets/ne-num-sensitivity_en-de_refs.txt \
+		-j ../sensitivity_analysis/challenge_sets/ne-num-sensitivity_en-de.json \
 		-o ../sensitivity_analysis/results/comet-20_ne-num-sensitivity_en-de.json \
 		-ns 2
 ```
