@@ -23,7 +23,7 @@ The new metrics were trained on the to-German segments from the test set of the 
 
 The new metrics were evaluated on the `en-de` protion of the official WMT 2020 Metrics Shared Task test set that can be downloaded from [here](https://drive.google.com/drive/folders/1n_alr6WFQZfw4dcAmyxow4V8FC67XD8p). 
 
-The scripts used to prepare the train and dev and sets are included in the folder `data_preparation`. The procedure to create the test set is described [below](##Evaluation-of-GBLEURT,-GCOMET-and-COMET\-Contrastive). 
+The scripts used to prepare the train and dev and sets are included in the folder `data_preparation`. The procedure to create the test set is described [below](#Evaluation). 
 
 
 
@@ -74,9 +74,9 @@ New metrics were trained to investigate whether Whole Word Masking in pre-traini
 
 To this end, the new GBLEURT and GCOMET metrics were trained, both in two flavours: one based on a language model pre-trained with Whole Word Masking (WWM), the other based on a language model pre-trained with Sub-Word Masking (SWM). 
 All four metrics build on the German BERT (GBERT) model by [Chan et al. (2020)](
-https://aclanthology.org/2020.coling-main.598). The variant pre-trained with WWM is publicly available as on [Hugging Face]((https://huggingface.co/deepset/gbert-base) as  `deepset/gbert-base`, while the SWM-based model `gbert-data` is not publicly available. Chan et al. shared it with me upon my request.
+https://aclanthology.org/2020.coling-main.598). The variant pre-trained with WWM is publicly available as on [Hugging Face](https://huggingface.co/deepset/gbert-base) as  `deepset/gbert-base`, while the SWM-based model `gbert-data` is not publicly available. Chan et al. shared it with me upon my request.
 
-The training and [evaluation](#Evaluation-of-GBLEURT,-GCOMET-and-COMET-Contrastive) details of [GBLEURT](#GBLEURT) and [GCOMET](#GCOMET) and instructions on how to use them are given below.
+The training and [evaluation](#Evaluation) details of [GBLEURT](#GBLEURT) and [GCOMET](#GCOMET) and instructions on how to use them are given below.
 
 
 
@@ -176,7 +176,7 @@ For GCOMET-SWM and COMET-Contrastive, adjust the model path and output filename 
 
 
 
-## Evaluation of GBLEURT, GCOMET and COMET-Contrastive
+## Evaluation
 To evaluate the newly trained metrics, the official evalaution from the WMT 2020 Metrics Shared Task is run. The official evaluation scripts are contained in [this repository](https://github.com/WMT-Metrics-task/wmt20-metrics).
 
 To prepare the input files for the evaluation, use the scripts and materials in `wmt20_metrics_evaluation`. 
