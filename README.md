@@ -1,5 +1,5 @@
 # Compound Sensitivity of Neural Metrics
-This repository contains the scripts and materials that were created as part of the Master's thesis ...............
+This repository contains the scripts and materials that were created as part of the Master's thesis *Schneeschrauben, Himmelbäume, Gartengebäcke: Investgating and Enhancing the Sensitivity of Trained Neural Metrics To German Compounds*.
 The thesis investigates how sensitive trained neural metrics are towards German compounds. To shed light on the sensitivity of a metric and to uncover its blind spots, Minimum Bayes Risk (MBR) decoding is used as proposed by [Amrhein and Sennrich (2022)](https://aclanthology.org/2022.aacl-main.83/).
 
 The first part of the thesis focuses on a case study on COMET-20. A semi-automatic analysis of the translations produced via MBR decoding with COMET-20 as utility function reveals that COMET-20 is not sensitive enough to compounds. It generates more nonsensical compounds than surface overlap-based utility functions. The exploration of the MBR-decoded outputs and the results of the analysis are described in the section [Exploration](#Exploration).
@@ -23,7 +23,7 @@ The new metrics were trained on the to-German segments from the test set of the 
 
 The new metrics were evaluated on the `en-de` protion of the official WMT 2020 Metrics Shared Task test set that can be downloaded from [here](https://drive.google.com/drive/folders/1n_alr6WFQZfw4dcAmyxow4V8FC67XD8p). 
 
-The scripts used to prepare the train and dev and sets are included in the folder `data_preparation`. The procedure to create the test set is described [below](#Evaluation-of-GBLEURT,-GCOMET-and-COMET-Contrastive). 
+The scripts used to prepare the train and dev and sets are included in the folder `data_preparation`. The procedure to create the test set is described [below](##Evaluation-of-GBLEURT,-GCOMET-and-COMET-Contrastive). 
 
 
 
