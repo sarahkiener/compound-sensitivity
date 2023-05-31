@@ -1,0 +1,852 @@
+{
+    "3": {
+        "most_freq_1": [
+            "Ash O'Brien und Ehemann Jarett Kelley sagen, dass sie am Donnerstag im Dusty Rhodes Dogpark in San Diego mit ihrem dreimonatigen Pug-in-Tow ein wenig zu essen.",
+            "-0.9203429"
+        ],
+        "most_freq_2": [
+            "Ash O'Brien und Ehemann Jarett Kelley sagen, dass sie am Donnerstag im Dusty Rhodes Hundpark in San Diego mit ihrem dreimonatigen Pug-in-Tow ein wenig zu essen.",
+            "-0.96718013"
+        ],
+        "most_freq_3": [
+            "Ash O'Brien und Ehemann Jarett Kelley sagen, dass sie am Donnerstag im Dusty Rhodes Dog Park in San Diego mit ihrem dreimonatigen Pug-in-Tow ein wenig zu essen.",
+            "-0.91882"
+        ],
+        "most_sim_1": [
+            "Ash O'Brien und Ehemann Jarett Kelley sagen, dass sie am Donnerstag im Dusty Rhodes Hundenpark in San Diego mit ihrem dreimonatigen Pug-in-Tow ein wenig zu essen.",
+            "-1.0067589"
+        ],
+        "most_sim_2": [
+            "Ash O'Brien und Ehemann Jarett Kelley sagen, dass sie am Donnerstag im Dusty Rhodes Houndpark in San Diego mit ihrem dreimonatigen Pug-in-Tow ein wenig zu essen.",
+            "-0.93058765"
+        ],
+        "most_sim_3": [
+            "Ash O'Brien und Ehemann Jarett Kelley sagen, dass sie am Donnerstag im Dusty Rhodes Hungerpark in San Diego mit ihrem dreimonatigen Pug-in-Tow ein wenig zu essen.",
+            "-0.97854817"
+        ],
+        "ref": [
+            "Ash O'Brien und Ehemann Jarett Kelley sagen, dass sie am Donnerstag im Dusty Rhodes Hundepark in San Diego mit ihrem dreimonatigen Pug-in-Tow ein wenig zu essen.",
+            "-0.9086042"
+        ],
+        "src": [
+            "Ash O'Brien and husband Jarett Kelley say they were grabbing a bite to eat at Dusty Rhodes dog park in San Diego on Thursday, with their three-month-old pug in tow.",
+            "-2.0540385"
+        ]
+    },
+    "22": {
+        "most_freq_1": [
+            "Der Tod von George Floyd in Polizeiverwahrsam in Minneapolis im Mai zündete Massenproteste, die Millionen in Dutzenden von Städten auf die Straße brachten, aber diese Demonstrationen sind in den meisten Städten gesunken.",
+            "0.03617516"
+        ],
+        "most_freq_2": [
+            "Der Tod von George Floyd in Polizeiverwaltung in Minneapolis im Mai zündete Massenproteste, die Millionen in Dutzenden von Städten auf die Straße brachten, aber diese Demonstrationen sind in den meisten Städten gesunken.",
+            "-0.22739917"
+        ],
+        "most_freq_3": [
+            "Der Tod von George Floyd in Polizeibewahrung in Minneapolis im Mai zündete Massenproteste, die Millionen in Dutzenden von Städten auf die Straße brachten, aber diese Demonstrationen sind in den meisten Städten gesunken.",
+            "-0.39310777"
+        ],
+        "most_sim_1": [
+            "Der Tod von George Floyd in Polizeigemwahrsam in Minneapolis im Mai zündete Massenproteste, die Millionen in Dutzenden von Städten auf die Straße brachten, aber diese Demonstrationen sind in den meisten Städten gesunken.",
+            "-0.20192313"
+        ],
+        "most_sim_2": [
+            "Der Tod von George Floyd in Polizeigewahrfang in Minneapolis im Mai zündete Massenproteste, die Millionen in Dutzenden von Städten auf die Straße brachten, aber diese Demonstrationen sind in den meisten Städten gesunken.",
+            "-0.0446464"
+        ],
+        "most_sim_3": [
+            "Der Tod von George Floyd in Polizeiverwahrsam in Minneapolis im Mai zündete Massenproteste, die Millionen in Dutzenden von Städten auf die Straße brachten, aber diese Demonstrationen sind in den meisten Städten gesunken.",
+            "0.03617516"
+        ],
+        "ref": [
+            "Der Tod von George Floyd in Polizeigewahrsam in Minneapolis im Mai zündete Massenproteste, die Millionen in Dutzenden von Städten auf die Straße brachten, aber diese Demonstrationen sind in den meisten Städten gesunken.",
+            "0.04567264"
+        ],
+        "src": [
+            "The death of George Floyd in police custody in Minneapolis in May ignited mass protests that drew millions to the streets in dozens of cities, but those demonstrations have waned in most cities.",
+            "-2.6195054"
+        ]
+    },
+    "31": {
+        "most_freq_1": [
+            "Die E-Mail am Sonntag kann zeigen, dass ein Teil seines Besuchs am Mittwoch eine Reise in das \"Tötungshaus\", in dem die elitäre Soldaten ihre Fähigkeiten für die Bekämpfung von Terroristen erhoben.",
+            "-0.8057525"
+        ],
+        "most_freq_2": [
+            "Die E-Mail am Sonntag kann zeigen, dass ein Teil seines Besuchs am Mittwoch eine Reise in das \"Tötungshaus\", in dem die Eliten Soldaten ihre Fähigkeiten für die Bekämpfung von Terroristen erhoben.",
+            "-0.70508355"
+        ],
+        "most_freq_3": [
+            "Die E-Mail am Sonntag kann zeigen, dass ein Teil seines Besuchs am Mittwoch eine Reise in das \"Tötungshaus\", in dem die Eliten ihre Fähigkeiten für die Bekämpfung von Terroristen erhoben.",
+            "-0.56675464"
+        ],
+        "most_sim_1": [
+            "Die E-Mail am Sonntag kann zeigen, dass ein Teil seines Besuchs am Mittwoch eine Reise in das \"Tötungshaus\", in dem die Elitenoldaten ihre Fähigkeiten für die Bekämpfung von Terroristen erhoben.",
+            "-0.6760787"
+        ],
+        "most_sim_2": [
+            "Die E-Mail am Sonntag kann zeigen, dass ein Teil seines Besuchs am Mittwoch eine Reise in das \"Tötungshaus\", in dem die Soldaten der Elite ihre Fähigkeiten für die Bekämpfung von Terroristen erhoben.",
+            "-0.58359027"
+        ],
+        "most_sim_3": [
+            "Die E-Mail am Sonntag kann zeigen, dass ein Teil seines Besuchs am Mittwoch eine Reise in das \"Tötungshaus\", in dem die Eliten Soldaten ihre Fähigkeiten für die Bekämpfung von Terroristen erhoben.",
+            "-0.70508355"
+        ],
+        "ref": [
+            "Die E-Mail am Sonntag kann zeigen, dass ein Teil seines Besuchs am Mittwoch eine Reise in das \"Tötungshaus\", in dem die Elite-Soldaten ihre Fähigkeiten für die Bekämpfung von Terroristen erhoben.",
+            "-0.5745064"
+        ],
+        "src": [
+            "The Mail on Sunday can reveal that part of his visit on Wednesday involved a trip to the \"Killing House\" where elite soldiers hone their skills on tackling terrorists.",
+            "-2.3705966"
+        ]
+    },
+    "75": {
+        "most_freq_1": [
+            "\"Sie werden buchstäblich in die Werkzeuge der Menschen gehen und um sie herumführen.",
+            "-0.2720955"
+        ],
+        "most_freq_2": [
+            "\"Sie werden buchstäblich in die Toolboxen der Menschen gehen und um sie herumführen.",
+            "-0.24466476"
+        ],
+        "most_freq_3": [
+            "\"Sie werden buchstäblich in die Werkzeugköpfe der Menschen gehen und um sie herumführen.",
+            "0.01080057"
+        ],
+        "most_sim_1": [
+            "\"Sie werden buchstäblich in die Werkzeugkarten der Menschen gehen und um sie herumführen.",
+            "-0.5222796"
+        ],
+        "most_sim_2": [
+            "\"Sie werden buchstäblich in die Werkzeugketten der Menschen gehen und um sie herumführen.",
+            "-0.084587745"
+        ],
+        "most_sim_3": [
+            "\"Sie werden buchstäblich in die Werkzeugkorbse der Menschen gehen und um sie herumführen.",
+            "-0.35434806"
+        ],
+        "ref": [
+            "\"Sie werden buchstäblich in die Werkzeugkasten der Menschen gehen und um sie herumführen.",
+            "-0.3689498"
+        ],
+        "src": [
+            "\"They will literally go into people's toolboxes and carry them around.\"",
+            "-2.4948392"
+        ]
+    },
+    "94": {
+        "most_freq_1": [
+            "Cruz sagte, dass mehr als die Hälfte der Amerikaner, die die verbesserten Arbeitslosenunterstützen erhalten, mehr bezahlt werden, als als sie arbeiteten, und sagte, er habe mit kleinen Unternehmen in Texas gesprochen, die Schwierigkeiten haben, Arbeitnehmer neu zu entsenden.",
+            "0.21285535"
+        ],
+        "most_freq_2": [
+            "Cruz sagte, dass mehr als die Hälfte der Amerikaner, die die verbesserten Arbeitslosigkeit erhalten, mehr bezahlt werden, als als sie arbeiteten, und sagte, er habe mit kleinen Unternehmen in Texas gesprochen, die Schwierigkeiten haben, Arbeitnehmer neu zu entsenden.",
+            "0.085841455"
+        ],
+        "most_freq_3": [
+            "Cruz sagte, dass mehr als die Hälfte der Amerikaner, die die verbesserten Arbeitslosenbeitrag erhalten, mehr bezahlt werden, als als sie arbeiteten, und sagte, er habe mit kleinen Unternehmen in Texas gesprochen, die Schwierigkeiten haben, Arbeitnehmer neu zu entsenden.",
+            "0.14590532"
+        ],
+        "most_sim_1": [
+            "Cruz sagte, dass mehr als die Hälfte der Amerikaner, die die verbesserten Arbeitslosenunterstützen erhalten, mehr bezahlt werden, als als sie arbeiteten, und sagte, er habe mit kleinen Unternehmen in Texas gesprochen, die Schwierigkeiten haben, Arbeitnehmer neu zu entsenden.",
+            "0.21285535"
+        ],
+        "most_sim_2": [
+            "Cruz sagte, dass mehr als die Hälfte der Amerikaner, die die verbesserten Arbeitslosenunterschutz erhalten, mehr bezahlt werden, als als sie arbeiteten, und sagte, er habe mit kleinen Unternehmen in Texas gesprochen, die Schwierigkeiten haben, Arbeitnehmer neu zu entsenden.",
+            "0.15604338"
+        ],
+        "most_sim_3": [
+            "Cruz sagte, dass mehr als die Hälfte der Amerikaner, die die verbesserten Arbeitslosengeldung erhalten, mehr bezahlt werden, als als sie arbeiteten, und sagte, er habe mit kleinen Unternehmen in Texas gesprochen, die Schwierigkeiten haben, Arbeitnehmer neu zu entsenden.",
+            "0.13356659"
+        ],
+        "ref": [
+            "Cruz sagte, dass mehr als die Hälfte der Amerikaner, die die verbesserten Arbeitslosenunterstützungen erhalten, mehr bezahlt werden, als als sie arbeiteten, und sagte, er habe mit kleinen Unternehmen in Texas gesprochen, die Schwierigkeiten haben, Arbeitnehmer neu zu entsenden.",
+            "0.23941068"
+        ],
+        "src": [
+            "Cruz said more than half of Americans receiving the enhanced unemployment benefits are paid more now than when they were working and said he's talked to small business owners in Texas who are having trouble rehiring employees.",
+            "-2.8539376"
+        ]
+    },
+    "97": {
+        "most_freq_1": [
+            "\"Anstatt nur Billionen aus der Tür zu werfen, würde ein Rückforderungsgesetz die Lohnsteuer aussetzen, die es allen in Amerika, die arbeiten, eine Entlohnung geben würde.",
+            "-0.7538934"
+        ],
+        "most_freq_2": [
+            "\"Anstatt nur Billionen aus der Tür zu werfen, würde ein Rückforderungsgesetz die Lohnsteuer aussetzen, die es allen in Amerika, die arbeiten, eine Lohnsteuer geben würde.",
+            "-0.9195895"
+        ],
+        "most_freq_3": [
+            "\"Anstatt nur Billionen aus der Tür zu werfen, würde ein Rückforderungsgesetz die Lohnsteuer aussetzen, die es allen in Amerika, die arbeiten, eine Lohnanspruch geben würde.",
+            "-1.0335209"
+        ],
+        "most_sim_1": [
+            "\"Anstatt nur Billionen aus der Tür zu werfen, würde ein Rückforderungsgesetz die Lohnsteuer aussetzen, die es allen in Amerika, die arbeiten, eine Lohnserhöhung geben würde.",
+            "-0.7084271"
+        ],
+        "most_sim_2": [
+            "\"Anstatt nur Billionen aus der Tür zu werfen, würde ein Rückforderungsgesetz die Lohnsteuer aussetzen, die es allen in Amerika, die arbeiten, eine Lohnaufnahme geben würde.",
+            "-0.85254586"
+        ],
+        "most_sim_3": [
+            "\"Anstatt nur Billionen aus der Tür zu werfen, würde ein Rückforderungsgesetz die Lohnsteuer aussetzen, die es allen in Amerika, die arbeiten, eine erhöhte Lohnstücke geben würde.",
+            "-1.2611549"
+        ],
+        "ref": [
+            "\"Anstatt nur Billionen aus der Tür zu werfen, würde ein Rückforderungsgesetz die Lohnsteuer aussetzen, die es allen in Amerika, die arbeiten, eine Lohnerhöhung geben würde.",
+            "-0.6793407"
+        ],
+        "src": [
+            "\"instead of just shoveling trillions out the door, a recovery bill would suspend the payroll tax, which would give it a pay raise to everyone in America who's working.\"",
+            "-2.6512256"
+        ]
+    },
+    "214": {
+        "most_freq_1": [
+            "Die Beratungsgruppe für Veranstaltung Industrie sagte, dass der Sektor einer der ersten gewesen sei, der in die Blockade gegangen sei und zu den letzten gehören würde, die sich vollständig daraus ergeben würden.",
+            "-0.2031999"
+        ],
+        "most_freq_2": [
+            "Die Beratungsgruppe für Veranstaltungsgruppe sagte, dass der Sektor einer der ersten gewesen sei, der in die Blockade gegangen sei und zu den letzten gehören würde, die sich vollständig daraus ergeben würden.",
+            "-0.44235945"
+        ],
+        "most_freq_3": [
+            "Die Beratungsgruppe für Veranstaltung der Industrie sagte, dass der Sektor einer der ersten gewesen sei, der in die Blockade gegangen sei und zu den letzten gehören würde, die sich vollständig daraus ergeben würden.",
+            "-0.31521058"
+        ],
+        "most_sim_1": [
+            "Die Beratungsgruppe für Ereignisindustrie sagte, dass der Sektor einer der ersten gewesen sei, der in die Blockade gegangen sei und zu den letzten gehören würde, die sich vollständig daraus ergeben würden.",
+            "-0.33955616"
+        ],
+        "most_sim_2": [
+            "Die Beratungsgruppe für Industrie der Veranstaltungen sagte, dass der Sektor einer der ersten gewesen sei, der in die Blockade gegangen sei und zu den letzten gehören würde, die sich vollständig daraus ergeben würden.",
+            "-0.52499866"
+        ],
+        "most_sim_3": [
+            "Die Beratungsgruppe für veranstalterischen Industriesektors sagte, dass der Sektor einer der ersten gewesen sei, der in die Blockade gegangen sei und zu den letzten gehören würde, die sich vollständig daraus ergeben würden.",
+            "-0.6395"
+        ],
+        "ref": [
+            "Die Beratungsgruppe für Veranstaltungsindustrie sagte, dass der Sektor einer der ersten gewesen sei, der in die Blockade gegangen sei und zu den letzten gehören würde, die sich vollständig daraus ergeben würden.",
+            "-0.09626532"
+        ],
+        "src": [
+            "The Event Industry Advisory Group said the sector had been one of the first to go into lockdown and would be among the last to fully emerge from it.",
+            "-2.6876235"
+        ]
+    },
+    "245": {
+        "most_freq_1": [
+            "Es mag für einen Pflanzenwissenschaftler peinlich sein, zugeben zu müssen, aber ich bin ein absoluter Lucker für einen Garten.",
+            "0.02705264"
+        ],
+        "most_freq_2": [
+            "Es mag für einen Pflanzenwissenschaftler peinlich sein, zugeben zu müssen, aber ich bin ein absoluter Lucker für einen Gartenhimmel.",
+            "-0.11692351"
+        ],
+        "most_freq_3": [
+            "Es mag für einen Pflanzenwissenschaftler peinlich sein, zugeben zu müssen, aber ich bin ein absoluter Lucker für einen Gartenwelt.",
+            "-0.48809236"
+        ],
+        "most_sim_1": [
+            "Es mag für einen Pflanzenwissenschaftler peinlich sein, zugeben zu müssen, aber ich bin ein absoluter Lucker für einen Gartengimmik.",
+            "-0.35782105"
+        ],
+        "most_sim_2": [
+            "Es mag für einen Pflanzenwissenschaftler peinlich sein, zugeben zu müssen, aber ich bin ein absoluter Lucker für einen Gartengimmel.",
+            "-0.09584063"
+        ],
+        "most_sim_3": [
+            "Es mag für einen Pflanzenwissenschaftler peinlich sein, zugeben zu müssen, aber ich bin ein absoluter Lucker für einen Gartenspielzeug.",
+            "-0.64682275"
+        ],
+        "ref": [
+            "Es mag für einen Pflanzenwissenschaftler peinlich sein, zugeben zu müssen, aber ich bin ein absoluter Lucker für einen Garten-Gimmick.",
+            "-0.21274365"
+        ],
+        "src": [
+            "It might be an embarrassing thing for a plant scientist to admit, but I am a total sucker for a garden gimmick.",
+            "-2.5844169"
+        ]
+    },
+    "256": {
+        "most_freq_1": [
+            "Ich habe Rosenphotoshoped skyblaue und Früchte mit einer physiologisch unmöglichen Menge an Obst in ihren Filialen in einigen großen Katalogen gesehen.",
+            "-1.3026879"
+        ],
+        "most_freq_2": [
+            "Ich habe Rosenphotoshoped skyblaue und Früchtebäume mit einer physiologisch unmöglichen Menge an Obst in ihren Filialen in einigen großen Katalogen gesehen.",
+            "-1.1116718"
+        ],
+        "most_freq_3": [
+            "Ich habe Rosenphotoshoped skyblaue und fruit trees mit einer physiologisch unmöglichen Menge an Obst in ihren Filialen in einigen großen Katalogen gesehen.",
+            "-1.1732903"
+        ],
+        "most_sim_1": [
+            "Ich habe Rosenphotoshoped skyblaue und Obst Bäume mit einer physiologisch unmöglichen Menge an Obst in ihren Filialen in einigen großen Katalogen gesehen.",
+            "-1.2255194"
+        ],
+        "most_sim_2": [
+            "Ich habe Rosenphotoshoped skyblaue und Obstboome mit einer physiologisch unmöglichen Menge an Obst in ihren Filialen in einigen großen Katalogen gesehen.",
+            "-1.278657"
+        ],
+        "most_sim_3": [
+            "Ich habe Rosenphotoshoped skyblaue und Apfelbäume mit einer physiologisch unmöglichen Menge an Obst in ihren Filialen in einigen großen Katalogen gesehen.",
+            "-1.0058203"
+        ],
+        "ref": [
+            "Ich habe Rosenphotoshoped skyblaue und Obstbäume mit einer physiologisch unmöglichen Menge an Obst in ihren Filialen in einigen großen Katalogen gesehen.",
+            "-1.0425187"
+        ],
+        "src": [
+            "I've seen roses Photoshopped sky blue and fruit trees with a physiologically impossible amount of fruit on their branches in some major catalogues.",
+            "-2.4223719"
+        ]
+    },
+    "289": {
+        "most_freq_1": [
+            "\"Wir schlagen vor, dass die Regierung die Quarantänevorschriften für Flüge in und aus bestimmten Regionen mit niedrigeren Infektionsraten oder an Orten wie den Balearen oder den Kanarischen Inseln - die sich geografisch von dem spanischen Finnland unterscheiden - aufhebt, um weitere Schäden für die britische In- und Outbound-Tourismusindustrie zu vermeiden\", sagte er.",
+            "0.18511163"
+        ],
+        "most_freq_2": [
+            "\"Wir schlagen vor, dass die Regierung die Quarantänevorschriften für Flüge in und aus bestimmten Regionen mit niedrigeren Infektionsraten oder an Orten wie den Balearen oder den Kanarischen Inseln - die sich geografisch von dem spanischen Heimatland unterscheiden - aufhebt, um weitere Schäden für die britische In- und Outbound-Tourismusindustrie zu vermeiden\", sagte er.",
+            "0.30843925"
+        ],
+        "most_freq_3": [
+            "\"Wir schlagen vor, dass die Regierung die Quarantänevorschriften für Flüge in und aus bestimmten Regionen mit niedrigeren Infektionsraten oder an Orten wie den Balearen oder den Kanarischen Inseln - die sich geografisch von dem spanischen Anland unterscheiden - aufhebt, um weitere Schäden für die britische In- und Outbound-Tourismusindustrie zu vermeiden\", sagte er.",
+            "0.2784695"
+        ],
+        "most_sim_1": [
+            "\"Wir schlagen vor, dass die Regierung die Quarantänevorschriften für Flüge in und aus bestimmten Regionen mit niedrigeren Infektionsraten oder an Orten wie den Balearen oder den Kanarischen Inseln - die sich geografisch von dem spanischen Festlandsland unterscheiden - aufhebt, um weitere Schäden für die britische In- und Outbound-Tourismusindustrie zu vermeiden\", sagte er.",
+            "0.2528423"
+        ],
+        "most_sim_2": [
+            "\"Wir schlagen vor, dass die Regierung die Quarantänevorschriften für Flüge in und aus bestimmten Regionen mit niedrigeren Infektionsraten oder an Orten wie den Balearen oder den Kanarischen Inseln - die sich geografisch von dem spanischen Finnland unterscheiden - aufhebt, um weitere Schäden für die britische In- und Outbound-Tourismusindustrie zu vermeiden\", sagte er.",
+            "0.18511163"
+        ],
+        "most_sim_3": [
+            "\"Wir schlagen vor, dass die Regierung die Quarantänevorschriften für Flüge in und aus bestimmten Regionen mit niedrigeren Infektionsraten oder an Orten wie den Balearen oder den Kanarischen Inseln - die sich geografisch von dem spanischen Festlandspanien unterscheiden - aufhebt, um weitere Schäden für die britische In- und Outbound-Tourismusindustrie zu vermeiden\", sagte er.",
+            "0.15918618"
+        ],
+        "ref": [
+            "\"Wir schlagen vor, dass die Regierung die Quarantänevorschriften für Flüge in und aus bestimmten Regionen mit niedrigeren Infektionsraten oder an Orten wie den Balearen oder den Kanarischen Inseln - die sich geografisch von dem spanischen Festland unterscheiden - aufhebt, um weitere Schäden für die britische In- und Outbound-Tourismusindustrie zu vermeiden\", sagte er.",
+            "0.30584043"
+        ],
+        "src": [
+            "\"We suggest the government considers lifting the quarantine rules for flights to and from certain regions with lower infection rates, or to places such as the Balearic Islands or the Canaries - which are geographically distinct from mainland Spain - to avoid further damage to the UK inbound and outbound tourism industries,\" he said.",
+            "-2.2591965"
+        ]
+    },
+    "352": {
+        "most_freq_1": [
+            "AP schlägt Presseminister Kayleigh McEnany des Weißen Hauses für \"politische\" Briefings ein - aber Reporter stellen immer wieder politische Fragen - RT USA News",
+            "-0.038626116"
+        ],
+        "most_freq_2": [
+            "AP schlägt Presseministerin Kayleigh McEnany des Weißen Hauses für \"politische\" Briefings ein - aber Reporter stellen immer wieder politische Fragen - RT USA News",
+            "-0.06747055"
+        ],
+        "most_freq_3": [
+            "AP schlägt Pressekommissar Kayleigh McEnany des Weißen Hauses für \"politische\" Briefings ein - aber Reporter stellen immer wieder politische Fragen - RT USA News",
+            "-0.040899385"
+        ],
+        "most_sim_1": [
+            "AP schlägt Pressekretärin Kayleigh McEnany des Weißen Hauses für \"politische\" Briefings ein - aber Reporter stellen immer wieder politische Fragen - RT USA News",
+            "-0.05494347"
+        ],
+        "most_sim_2": [
+            "AP schlägt Presse Sekretär Kayleigh McEnany des Weißen Hauses für \"politische\" Briefings ein - aber Reporter stellen immer wieder politische Fragen - RT USA News",
+            "-0.0764679"
+        ],
+        "most_sim_3": [
+            "AP schlägt Pressekreisekretär Kayleigh McEnany des Weißen Hauses für \"politische\" Briefings ein - aber Reporter stellen immer wieder politische Fragen - RT USA News",
+            "-0.034911025"
+        ],
+        "ref": [
+            "AP schlägt Pressesekretär Kayleigh McEnany des Weißen Hauses für \"politische\" Briefings ein - aber Reporter stellen immer wieder politische Fragen - RT USA News",
+            "-0.033196826"
+        ],
+        "src": [
+            "AP blasts White House press secretary Kayleigh McEnany for \"political\" briefings - but reporters keep asking political questions - RT USA News",
+            "-2.4486732"
+        ]
+    },
+    "386": {
+        "most_freq_1": [
+            "Der Klimawandel hat, so glauben Wissenschaftler, die Wassertemperaturen und damit die Klarheit beeinflusst.",
+            "0.5500359"
+        ],
+        "most_freq_2": [
+            "Der Klimawandel hat, so glauben Wissenschaftler, die Wasserstemperatur und damit die Klarheit beeinflusst.",
+            "0.5290071"
+        ],
+        "most_freq_3": [
+            "Der Klimawandel hat, so glauben Wissenschaftler, die Temperatur und damit die Klarheit beeinflusst.",
+            "0.40427786"
+        ],
+        "most_sim_1": [
+            "Der Klimawandel hat, so glauben Wissenschaftler, die Wasserstemperatur und damit die Klarheit beeinflusst.",
+            "0.5290071"
+        ],
+        "most_sim_2": [
+            "Der Klimawandel hat, so glauben Wissenschaftler, die Wettertemperaturen und damit die Klarheit beeinflusst.",
+            "0.506473"
+        ],
+        "most_sim_3": [
+            "Der Klimawandel hat, so glauben Wissenschaftler, die Trinkwassertemperatur und damit die Klarheit beeinflusst.",
+            "0.57068825"
+        ],
+        "ref": [
+            "Der Klimawandel hat, so glauben Wissenschaftler, die Wassertemperatur und damit die Klarheit beeinflusst.",
+            "0.5469522"
+        ],
+        "src": [
+            "Climate change, scientists believe, has affected the water temperature and thus, the clarity.",
+            "-2.5287113"
+        ]
+    },
+    "514": {
+        "most_freq_1": [
+            "Nein - aber wenn Sie nach nachmittags aus Spanien zurückkehren, müssen Sie sich zu Hause 14 Tage lang isolieren.",
+            "0.35011458"
+        ],
+        "most_freq_2": [
+            "Nein - aber wenn Sie nach Mittag aus Spanien zurückkehren, müssen Sie sich zu Hause 14 Tage lang isolieren.",
+            "0.35113558"
+        ],
+        "most_freq_3": [
+            "Nein - aber wenn Sie nach Mittagabend aus Spanien zurückkehren, müssen Sie sich zu Hause 14 Tage lang isolieren.",
+            "0.3115096"
+        ],
+        "most_sim_1": [
+            "Nein - aber wenn Sie nach mitten Nacht aus Spanien zurückkehren, müssen Sie sich zu Hause 14 Tage lang isolieren.",
+            "0.24608667"
+        ],
+        "most_sim_2": [
+            "Nein - aber wenn Sie nach Mittagsnacht aus Spanien zurückkehren, müssen Sie sich zu Hause 14 Tage lang isolieren.",
+            "0.31581956"
+        ],
+        "most_sim_3": [
+            "Nein - aber wenn Sie nach Mittentag aus Spanien zurückkehren, müssen Sie sich zu Hause 14 Tage lang isolieren.",
+            "0.004704237"
+        ],
+        "ref": [
+            "Nein - aber wenn Sie nach Mitternacht aus Spanien zurückkehren, müssen Sie sich zu Hause 14 Tage lang isolieren.",
+            "0.36680406"
+        ],
+        "src": [
+            "No - but if you return from Spain after midnight tonight, you will have to self isolate at home for 14 days.",
+            "-2.6878994"
+        ]
+    },
+    "564": {
+        "most_freq_1": [
+            "Die Minister kündigten am Samstag an, dass Urlauber, die nicht um nachmittags aus Spanien und seinen Inseln zurückgekehrt waren, 14 Tage lang zur Selbstisolierung gezwungen wären.",
+            "0.38154066"
+        ],
+        "most_freq_2": [
+            "Die Minister kündigten am Samstag an, dass Urlauber, die nicht um Mittagnacht aus Spanien und seinen Inseln zurückgekehrt waren, 14 Tage lang zur Selbstisolierung gezwungen wären.",
+            "0.36304155"
+        ],
+        "most_freq_3": [
+            "Die Minister kündigten am Samstag an, dass Urlauber, die nicht um Mittternacht aus Spanien und seinen Inseln zurückgekehrt waren, 14 Tage lang zur Selbstisolierung gezwungen wären.",
+            "-0.077261746"
+        ],
+        "most_sim_1": [
+            "Die Minister kündigten am Samstag an, dass Urlauber, die nicht um Mittennacht aus Spanien und seinen Inseln zurückgekehrt waren, 14 Tage lang zur Selbstisolierung gezwungen wären.",
+            "0.2661497"
+        ],
+        "most_sim_2": [
+            "Die Minister kündigten am Samstag an, dass Urlauber, die nicht um Mitternachtung aus Spanien und seinen Inseln zurückgekehrt waren, 14 Tage lang zur Selbstisolierung gezwungen wären.",
+            "0.18379894"
+        ],
+        "most_sim_3": [
+            "Die Minister kündigten am Samstag an, dass Urlauber, die nicht um Mittternacht aus Spanien und seinen Inseln zurückgekehrt waren, 14 Tage lang zur Selbstisolierung gezwungen wären.",
+            "-0.077261746"
+        ],
+        "ref": [
+            "Die Minister kündigten am Samstag an, dass Urlauber, die nicht um Mitternacht aus Spanien und seinen Inseln zurückgekehrt waren, 14 Tage lang zur Selbstisolierung gezwungen wären.",
+            "0.4114732"
+        ],
+        "src": [
+            "Ministers announced on Saturday that holidaymakers who had not returned from Spain and its islands by midnight would be forced to self-isolate for 14 days.",
+            "-2.3576603"
+        ]
+    },
+    "622": {
+        "most_freq_1": [
+            "JURUPA VALLEY (CBSLA) - Am Samstag Nachmittag im Jurupa-Tal brach ein Wildlandbrand aus, der zu einer Reaktion von mehr als 200 Feuerwehrleuten führte.",
+            "0.57511604"
+        ],
+        "most_freq_2": [
+            "JURUPA VALLEY (CBSLA) - Am Samstag Nachmittag im Jurupa-Tal brach ein Wildwasser aus, der zu einer Reaktion von mehr als 200 Feuerwehrleuten führte.",
+            "0.36614388"
+        ],
+        "most_freq_3": [
+            "JURUPA VALLEY (CBSLA) - Am Samstag Nachmittag im Jurupa-Tal brach ein freie Wildbahn aus, der zu einer Reaktion von mehr als 200 Feuerwehrleuten führte.",
+            "0.1923019"
+        ],
+        "most_sim_1": [
+            "JURUPA VALLEY (CBSLA) - Am Samstag Nachmittag im Jurupa-Tal brach ein Waldfeuer aus, der zu einer Reaktion von mehr als 200 Feuerwehrleuten führte.",
+            "0.6008339"
+        ],
+        "most_sim_2": [
+            "JURUPA VALLEY (CBSLA) - Am Samstag Nachmittag im Jurupa-Tal brach ein Wildbrand aus, der zu einer Reaktion von mehr als 200 Feuerwehrleuten führte.",
+            "0.58325964"
+        ],
+        "most_sim_3": [
+            "JURUPA VALLEY (CBSLA) - Am Samstag Nachmittag im Jurupa-Tal brach ein wilden Waldbrand aus, der zu einer Reaktion von mehr als 200 Feuerwehrleuten führte.",
+            "0.4756431"
+        ],
+        "ref": [
+            "JURUPA VALLEY (CBSLA) - Am Samstag Nachmittag im Jurupa-Tal brach ein Waldbrand aus, der zu einer Reaktion von mehr als 200 Feuerwehrleuten führte.",
+            "0.6138185"
+        ],
+        "src": [
+            "JURUPA VALLEY (CBSLA) - A wildland fire broke out on Saturday afternoon in Jurupa Valley, leading to a response of more than 200 firefighters.",
+            "-1.7282857"
+        ]
+    },
+    "623": {
+        "most_freq_1": [
+            "JURUPA VALLEY (CBSLA) - Am Samstag Nachmittag im Jurupa-Tal brach ein Waldbrand aus, der zu einer Reaktion von mehr als 200 Menschen führte.",
+            "0.53778994"
+        ],
+        "most_freq_2": [
+            "JURUPA VALLEY (CBSLA) - Am Samstag Nachmittag im Jurupa-Tal brach ein Waldbrand aus, der zu einer Reaktion von mehr als 200 Feuerhütern führte.",
+            "0.456316"
+        ],
+        "most_freq_3": [
+            "JURUPA VALLEY (CBSLA) - Am Samstag Nachmittag im Jurupa-Tal brach ein Waldbrand aus, der zu einer Reaktion von mehr als 200 Brandweltcläger führte.",
+            "-0.41049868"
+        ],
+        "most_sim_1": [
+            "JURUPA VALLEY (CBSLA) - Am Samstag Nachmittag im Jurupa-Tal brach ein Waldbrand aus, der zu einer Reaktion von mehr als 200 Brandkämpfen führte.",
+            "0.5162864"
+        ],
+        "most_sim_2": [
+            "JURUPA VALLEY (CBSLA) - Am Samstag Nachmittag im Jurupa-Tal brach ein Waldbrand aus, der zu einer Reaktion von mehr als 200 Brandkampfern führte.",
+            "0.35821754"
+        ],
+        "most_sim_3": [
+            "JURUPA VALLEY (CBSLA) - Am Samstag Nachmittag im Jurupa-Tal brach ein Waldbrand aus, der zu einer Reaktion von mehr als 200 Feuerbanden führte.",
+            "0.47039223"
+        ],
+        "ref": [
+            "JURUPA VALLEY (CBSLA) - Am Samstag Nachmittag im Jurupa-Tal brach ein Waldbrand aus, der zu einer Reaktion von mehr als 200 Feuerwehrleuten führte.",
+            "0.6129445"
+        ],
+        "src": [
+            "JURUPA VALLEY (CBSLA) - A wildland fire broke out on Saturday afternoon in Jurupa Valley, leading to a response of more than 200 firefighters.",
+            "-1.7273564"
+        ]
+    },
+    "631": {
+        "most_freq_1": [
+            "Ein winziges Stück martianischer Basalt wird am Donnerstag an Bord einer amerikanischen Roboteruntersuchung auf einer siebenmonatigen Reise in die Heimatwelt auf den roten Planeten gebracht.",
+            "-0.3569119"
+        ],
+        "most_freq_2": [
+            "Ein winziges Stück martianischer Basalt wird am Donnerstag an Bord einer US-Roboter auf einer siebenmonatigen Reise in die Heimatwelt auf den roten Planeten gebracht.",
+            "-0.34032488"
+        ],
+        "most_freq_3": [
+            "Ein winziges Stück martianischer Basalt wird am Donnerstag an Bord einer US-Robotertest auf einer siebenmonatigen Reise in die Heimatwelt auf den roten Planeten gebracht.",
+            "-0.5563063"
+        ],
+        "most_sim_1": [
+            "Ein winziges Stück martianischer Basalt wird am Donnerstag an Bord einer US-Roboter-Sohle auf einer siebenmonatigen Reise in die Heimatwelt auf den roten Planeten gebracht.",
+            "-0.24768573"
+        ],
+        "most_sim_2": [
+            "Ein winziges Stück martianischer Basalt wird am Donnerstag an Bord einer amerikanische Roboterprobe auf einer siebenmonatigen Reise in die Heimatwelt auf den roten Planeten gebracht.",
+            "-0.4824601"
+        ],
+        "most_sim_3": [
+            "Ein winziges Stück martianischer Basalt wird am Donnerstag an Bord einer amerikanischen Robotsonders auf einer siebenmonatigen Reise in die Heimatwelt auf den roten Planeten gebracht.",
+            "-0.5084463"
+        ],
+        "ref": [
+            "Ein winziges Stück martianischer Basalt wird am Donnerstag an Bord einer US-Robotersonde auf einer siebenmonatigen Reise in die Heimatwelt auf den roten Planeten gebracht.",
+            "-0.22006826"
+        ],
+        "src": [
+            "A tiny piece of Martian basalt the size of a 10p coin will be launched on board a US robot probe on Thursday and propelled towards the red planet on a seven-month journey to its home world.",
+            "-2.6614308"
+        ]
+    },
+    "682": {
+        "most_freq_1": [
+            "Kenianische Polizei, die nach dem tödlichen Schießen in Garissa verhaftet wurden",
+            "0.15792012"
+        ],
+        "most_freq_2": [
+            "Kenianische Polizeibeamter, die nach dem tödlichen Schießen in Garissa verhaftet wurden",
+            "0.3659317"
+        ],
+        "most_freq_3": [
+            "Kenianische Polizeichefer, die nach dem tödlichen Schießen in Garissa verhaftet wurden",
+            "0.24235469"
+        ],
+        "most_sim_1": [
+            "Kenianische Polizeibeamter, die nach dem tödlichen Schießen in Garissa verhaftet wurden",
+            "0.3659317"
+        ],
+        "most_sim_2": [
+            "Kenianische polizeiliche Offiziere, die nach dem tödlichen Schießen in Garissa verhaftet wurden",
+            "0.3552105"
+        ],
+        "most_sim_3": [
+            "Kenianische Politikoffiziere, die nach dem tödlichen Schießen in Garissa verhaftet wurden",
+            "0.22130026"
+        ],
+        "ref": [
+            "Kenianische Polizeibeamte, die nach dem tödlichen Schießen in Garissa verhaftet wurden",
+            "0.45001805"
+        ],
+        "src": [
+            "Kenyan police officers arrested after fatal shooting in Garissa",
+            "-2.300412"
+        ]
+    },
+    "782": {
+        "most_freq_1": [
+            "Demonstranten brachen Fenster, sprühen gemalt Graffiti, schossen Schussfeuerwerke und zeigten Laser an Offizieren, sagte die Oakland-Abteilung auf Twitter.",
+            "-0.2686469"
+        ],
+        "most_freq_2": [
+            "Demonstranten brachen Fenster, sprühen gemalt Graffiti, schossen Fireworks und zeigten Laser an Offizieren, sagte die Oakland-Abteilung auf Twitter.",
+            "-0.44275898"
+        ],
+        "most_freq_3": [
+            "Demonstranten brachen Fenster, sprühen gemalt Graffiti, schossen Schussfeuerwerk und zeigten Laser an Offizieren, sagte die Oakland-Abteilung auf Twitter.",
+            "-0.26056162"
+        ],
+        "most_sim_1": [
+            "Demonstranten brachen Fenster, sprühen gemalt Graffiti, schossen Feuerenwerk und zeigten Laser an Offizieren, sagte die Oakland-Abteilung auf Twitter.",
+            "-0.67493814"
+        ],
+        "most_sim_2": [
+            "Demonstranten brachen Fenster, sprühen gemalt Graffiti, schossen Feuerwerkszeuge und zeigten Laser an Offizieren, sagte die Oakland-Abteilung auf Twitter.",
+            "-0.1541275"
+        ],
+        "most_sim_3": [
+            "Demonstranten brachen Fenster, sprühen gemalt Graffiti, schossen Feuerstellen und zeigten Laser an Offizieren, sagte die Oakland-Abteilung auf Twitter.",
+            "-0.2718557"
+        ],
+        "ref": [
+            "Demonstranten brachen Fenster, sprühen gemalt Graffiti, schossen Feuerwerke und zeigten Laser an Offizieren, sagte die Oakland-Abteilung auf Twitter.",
+            "-0.19316201"
+        ],
+        "src": [
+            "Demonstrators broke windows, spray painted graffiti, shot fireworks and pointed lasers at officers, the Oakland department said on Twitter.",
+            "-2.333368"
+        ]
+    },
+    "795": {
+        "most_freq_1": [
+            "Die positiven Fälle wurden aufgedeckt, nachdem kürzlich ein massenmedizinisches Prüflager bei der Bank abgehalten wurde, so die Beamten.",
+            "0.049077"
+        ],
+        "most_freq_2": [
+            "Die positiven Fälle wurden aufgedeckt, nachdem kürzlich ein massenmedizinisches Sensorediempfangslager bei der Bank abgehalten wurde, so die Beamten.",
+            "-0.48038658"
+        ],
+        "most_freq_3": [
+            "Die positiven Fälle wurden aufgedeckt, nachdem kürzlich ein massenmedizinisches Vorsorgelager bei der Bank abgehalten wurde, so die Beamten.",
+            "0.15341061"
+        ],
+        "most_sim_1": [
+            "Die positiven Fälle wurden aufgedeckt, nachdem kürzlich ein massenmedizinisches Screeningslager bei der Bank abgehalten wurde, so die Beamten.",
+            "0.27381277"
+        ],
+        "most_sim_2": [
+            "Die positiven Fälle wurden aufgedeckt, nachdem kürzlich ein massenmedizinisches Screening Kampagne bei der Bank abgehalten wurde, so die Beamten.",
+            "-0.1415563"
+        ],
+        "most_sim_3": [
+            "Die positiven Fälle wurden aufgedeckt, nachdem kürzlich ein massenmedizinisches Screening-Center bei der Bank abgehalten wurde, so die Beamten.",
+            "0.16006538"
+        ],
+        "ref": [
+            "Die positiven Fälle wurden aufgedeckt, nachdem kürzlich ein massenmedizinisches Screening-Camp bei der Bank abgehalten wurde, so die Beamten.",
+            "0.32740638"
+        ],
+        "src": [
+            "The positive cases came to light after a mass medical screening camp was held at the bank recently, the officials said.",
+            "-2.771731"
+        ]
+    },
+    "816": {
+        "most_freq_1": [
+            "Laut dem Outdoor Media Association Report von 2019 beliefen sich die Einnahmen aus dem Verkehr - einschließlich der Flughäfen - auf 169,4 Millionen Dollar, während die Einnahmen aus Straßenmöbeln und der Außenbereich von Bussen und Straßenbussen 266,5 Millionen Dollar betrugen.",
+            "0.22676468"
+        ],
+        "most_freq_2": [
+            "Laut dem Outdoor Media Association Report von 2019 beliefen sich die Einnahmen aus dem Verkehr - einschließlich der Flughäfen - auf 169,4 Millionen Dollar, während die Einnahmen aus Straßenmöbeln und der Außenbereich von Bussen und Straßenbusse 266,5 Millionen Dollar betrugen.",
+            "0.1675227"
+        ],
+        "most_freq_3": [
+            "Laut dem Outdoor Media Association Report von 2019 beliefen sich die Einnahmen aus dem Verkehr - einschließlich der Flughäfen - auf 169,4 Millionen Dollar, während die Einnahmen aus Straßenmöbeln und der Außenbereich von Bussen und Straßenbahnnetzen 266,5 Millionen Dollar betrugen.",
+            "0.23003772"
+        ],
+        "most_sim_1": [
+            "Laut dem Outdoor Media Association Report von 2019 beliefen sich die Einnahmen aus dem Verkehr - einschließlich der Flughäfen - auf 169,4 Millionen Dollar, während die Einnahmen aus Straßenmöbeln und der Außenbereich von Bussen und Straßenbahnchen 266,5 Millionen Dollar betrugen.",
+            "0.2147174"
+        ],
+        "most_sim_2": [
+            "Laut dem Outdoor Media Association Report von 2019 beliefen sich die Einnahmen aus dem Verkehr - einschließlich der Flughäfen - auf 169,4 Millionen Dollar, während die Einnahmen aus Straßenmöbeln und der Außenbereich von Bussen und Straßenbahnhöfe 266,5 Millionen Dollar betrugen.",
+            "0.22274032"
+        ],
+        "most_sim_3": [
+            "Laut dem Outdoor Media Association Report von 2019 beliefen sich die Einnahmen aus dem Verkehr - einschließlich der Flughäfen - auf 169,4 Millionen Dollar, während die Einnahmen aus Straßenmöbeln und der Außenbereich von Bussen und Straßenbündnisse 266,5 Millionen Dollar betrugen.",
+            "0.073916286"
+        ],
+        "ref": [
+            "Laut dem Outdoor Media Association Report von 2019 beliefen sich die Einnahmen aus dem Verkehr - einschließlich der Flughäfen - auf 169,4 Millionen Dollar, während die Einnahmen aus Straßenmöbeln und der Außenbereich von Bussen und Straßenbahnen 266,5 Millionen Dollar betrugen.",
+            "0.32833707"
+        ],
+        "src": [
+            "According to the 2019 Outdoor Media Association Report, revenue from transport - including airports - was $169.4 million while revenue from street furniture and and the outside of buses and trams was $266.5 million.",
+            "-2.0650463"
+        ]
+    },
+    "865": {
+        "most_freq_1": [
+            "Einige Unternehmen sind dabei, neue High-Tech-Tools wie Fernhandschuhe für die Polizei anzubieten, anstatt die gefährlicheren Optionen wie Pfeffersprüh, Gummi- und Blitzgrenaden zu nutzen.",
+            "0.057845317"
+        ],
+        "most_freq_2": [
+            "Einige Unternehmen sind dabei, neue High-Tech-Tools wie Fernhandschuhe für die Polizei anzubieten, anstatt die gefährlicheren Optionen wie Pfeffersprüh, Gummibullen und Blitzgrenaden zu nutzen.",
+            "0.01971667"
+        ],
+        "most_freq_3": [
+            "Einige Unternehmen sind dabei, neue High-Tech-Tools wie Fernhandschuhe für die Polizei anzubieten, anstatt die gefährlicheren Optionen wie Pfeffersprüh, Gummibälle und Blitzgrenaden zu nutzen.",
+            "0.051547185"
+        ],
+        "most_sim_1": [
+            "Einige Unternehmen sind dabei, neue High-Tech-Tools wie Fernhandschuhe für die Polizei anzubieten, anstatt die gefährlicheren Optionen wie Pfeffersprüh, Gummikugele und Blitzgrenaden zu nutzen.",
+            "0.040445566"
+        ],
+        "most_sim_2": [
+            "Einige Unternehmen sind dabei, neue High-Tech-Tools wie Fernhandschuhe für die Polizei anzubieten, anstatt die gefährlicheren Optionen wie Pfeffersprüh, Gummikugellen und Blitzgrenaden zu nutzen.",
+            "0.04818403"
+        ],
+        "most_sim_3": [
+            "Einige Unternehmen sind dabei, neue High-Tech-Tools wie Fernhandschuhe für die Polizei anzubieten, anstatt die gefährlicheren Optionen wie Pfeffersprüh, Gummikuppen und Blitzgrenaden zu nutzen.",
+            "0.036450543"
+        ],
+        "ref": [
+            "Einige Unternehmen sind dabei, neue High-Tech-Tools wie Fernhandschuhe für die Polizei anzubieten, anstatt die gefährlicheren Optionen wie Pfeffersprüh, Gummi-Kugeln und Blitzgrenaden zu nutzen.",
+            "0.12441847"
+        ],
+        "src": [
+            "Some companies are stepping up to offer new high-tech tools like remote handcuffs for police to use instead of the more dangerous options like pepper spray, rubber bullets and flash grenades.",
+            "-2.252241"
+        ]
+    },
+    "867": {
+        "most_freq_1": [
+            "\"Wir sahen einen Missbrauch von Tränengas, Pfeffersprühen, Pfefferkugeln, 40 Millimeter Auswirkungsrunden, im Wesentlichen jede Kombination von weniger tödlicher Waffe auf unangebrachte Art und Weise,\" sagte Amnesty International Waffenermittler Brian Castner.",
+            "-0.058306724"
+        ],
+        "most_freq_2": [
+            "\"Wir sahen einen Missbrauch von Tränengas, Pfeffersprüh, Pfefferkugeln, 40 Millimeter Auswirkungsrunden, im Wesentlichen jede Kombination von weniger tödlicher Waffe auf unangebrachte Art und Weise,\" sagte Amnesty International Waffenermittler Brian Castner.",
+            "-0.043789055"
+        ],
+        "most_freq_3": [
+            "\"Wir sahen einen Missbrauch von Tränengas, Pfeffersprühmittel, Pfefferkugeln, 40 Millimeter Auswirkungsrunden, im Wesentlichen jede Kombination von weniger tödlicher Waffe auf unangebrachte Art und Weise,\" sagte Amnesty International Waffenermittler Brian Castner.",
+            "-0.1894178"
+        ],
+        "most_sim_1": [
+            "\"Wir sahen einen Missbrauch von Tränengas, Pfefferspritzen, Pfefferkugeln, 40 Millimeter Auswirkungsrunden, im Wesentlichen jede Kombination von weniger tödlicher Waffe auf unangebrachte Art und Weise,\" sagte Amnesty International Waffenermittler Brian Castner.",
+            "0.056870222"
+        ],
+        "most_sim_2": [
+            "\"Wir sahen einen Missbrauch von Tränengas, Pfeffersperay, Pfefferkugeln, 40 Millimeter Auswirkungsrunden, im Wesentlichen jede Kombination von weniger tödlicher Waffe auf unangebrachte Art und Weise,\" sagte Amnesty International Waffenermittler Brian Castner.",
+            "-0.21166664"
+        ],
+        "most_sim_3": [
+            "\"Wir sahen einen Missbrauch von Tränengas, Pfeffersperre, Pfefferkugeln, 40 Millimeter Auswirkungsrunden, im Wesentlichen jede Kombination von weniger tödlicher Waffe auf unangebrachte Art und Weise,\" sagte Amnesty International Waffenermittler Brian Castner.",
+            "-0.2733143"
+        ],
+        "ref": [
+            "\"Wir sahen einen Missbrauch von Tränengas, Pfefferspray, Pfefferkugeln, 40 Millimeter Auswirkungsrunden, im Wesentlichen jede Kombination von weniger tödlicher Waffe auf unangebrachte Art und Weise,\" sagte Amnesty International Waffenermittler Brian Castner.",
+            "0.06490148"
+        ],
+        "src": [
+            "\"We saw a misuse of tear gas, pepper spray, pepper balls, 40 millimeter impact rounds, basically every combination of less-lethal weapon being used in inappropriate ways,\" said Amnesty International weapons investigator Brian Castner.",
+            "-1.9440582"
+        ]
+    },
+    "889": {
+        "most_freq_1": [
+            "KCNA hat nicht speziell erwähnt, ob der Person getestet worden war, sondern sagte, dass ein \"ungewisses Ergebnis wurde aus mehreren ärztlichen Überprüfungen der Sekretion des oberen Oberorganisation und des Blutes dieser Person\" gemacht, was die Beamten dazu veranlasste, die Person zu quarantieren und jeden, mit dem er in Kontakt war, zu untersuchen.",
+            "-0.6239822"
+        ],
+        "most_freq_2": [
+            "KCNA hat nicht speziell erwähnt, ob der Person getestet worden war, sondern sagte, dass ein \"ungewisses Ergebnis wurde aus mehreren ärztlichen Überprüfungen der Sekretion des oberen Atemgestalt und des Blutes dieser Person\" gemacht, was die Beamten dazu veranlasste, die Person zu quarantieren und jeden, mit dem er in Kontakt war, zu untersuchen.",
+            "-0.4069622"
+        ],
+        "most_freq_3": [
+            "KCNA hat nicht speziell erwähnt, ob der Person getestet worden war, sondern sagte, dass ein \"ungewisses Ergebnis wurde aus mehreren ärztlichen Überprüfungen der Sekretion des oberen Atem und des Blutes dieser Person\" gemacht, was die Beamten dazu veranlasste, die Person zu quarantieren und jeden, mit dem er in Kontakt war, zu untersuchen.",
+            "-0.41254425"
+        ],
+        "most_sim_1": [
+            "KCNA hat nicht speziell erwähnt, ob der Person getestet worden war, sondern sagte, dass ein \"ungewisses Ergebnis wurde aus mehreren ärztlichen Überprüfungen der Sekretion des oberen Atemwegsorganisation und des Blutes dieser Person\" gemacht, was die Beamten dazu veranlasste, die Person zu quarantieren und jeden, mit dem er in Kontakt war, zu untersuchen.",
+            "-0.45831075"
+        ],
+        "most_sim_2": [
+            "KCNA hat nicht speziell erwähnt, ob der Person getestet worden war, sondern sagte, dass ein \"ungewisses Ergebnis wurde aus mehreren ärztlichen Überprüfungen der Sekretion des oberen Atemwegsorgels und des Blutes dieser Person\" gemacht, was die Beamten dazu veranlasste, die Person zu quarantieren und jeden, mit dem er in Kontakt war, zu untersuchen.",
+            "-0.3101204"
+        ],
+        "most_sim_3": [
+            "KCNA hat nicht speziell erwähnt, ob der Person getestet worden war, sondern sagte, dass ein \"ungewisses Ergebnis wurde aus mehreren ärztlichen Überprüfungen der Sekretion des oberen Atemwegsordens und des Blutes dieser Person\" gemacht, was die Beamten dazu veranlasste, die Person zu quarantieren und jeden, mit dem er in Kontakt war, zu untersuchen.",
+            "-0.34788984"
+        ],
+        "ref": [
+            "KCNA hat nicht speziell erwähnt, ob der Person getestet worden war, sondern sagte, dass ein \"ungewisses Ergebnis wurde aus mehreren ärztlichen Überprüfungen der Sekretion des oberen Atemwegsorgans und des Blutes dieser Person\" gemacht, was die Beamten dazu veranlasste, die Person zu quarantieren und jeden, mit dem er in Kontakt war, zu untersuchen.",
+            "-0.24681471"
+        ],
+        "src": [
+            "KCNA did not specifically mention whether the individual had been tested, but said an \"uncertain result was made from several medical check-ups of the secretion of that person's upper respiratory organ and blood,\" prompting officials to quarantine the person and investigate anyone he may have been in contact with.",
+            "-2.7949667"
+        ]
+    },
+    "944": {
+        "most_freq_1": [
+            "Die Durchführung unserer Sicherheitsagenturen in Bezug auf den Buggel des Ost-Timor-Parlaments, die Prozesse von Zeugen K und Bernard Collaery, das geheime Verfahren und die Inhaftierung eines ehemaligen Geheimdienstes, die jüngsten Suchbefehle, die gegen zwei Journalisten hingerichtet wurden, und die Aussicht auf Anklage gegen einen von ihnen in Bezug auf die Geschichten über mutmaßliche Morde australischer Soldaten in Afghanistan zeigen, warum wir unsere Wachsamkeit nicht senken sollten.",
+            "-0.41647446"
+        ],
+        "most_freq_2": [
+            "Die Durchführung unserer Sicherheitsagenturen in Bezug auf den Buggel des Ost-Timor-Parlaments, die Prozesse von Zeugen K und Bernard Collaery, das geheime Verfahren und die Inhaftierung eines ehemaligen Nachrichtendienstes, die jüngsten Suchbefehle, die gegen zwei Journalisten hingerichtet wurden, und die Aussicht auf Anklage gegen einen von ihnen in Bezug auf die Geschichten über mutmaßliche Morde australischer Soldaten in Afghanistan zeigen, warum wir unsere Wachsamkeit nicht senken sollten.",
+            "-0.4004443"
+        ],
+        "most_freq_3": [
+            "Die Durchführung unserer Sicherheitsagenturen in Bezug auf den Buggel des Ost-Timor-Parlaments, die Prozesse von Zeugen K und Bernard Collaery, das geheime Verfahren und die Inhaftierung eines ehemaligen Nachrichtendienstleisterin, die jüngsten Suchbefehle, die gegen zwei Journalisten hingerichtet wurden, und die Aussicht auf Anklage gegen einen von ihnen in Bezug auf die Geschichten über mutmaßliche Morde australischer Soldaten in Afghanistan zeigen, warum wir unsere Wachsamkeit nicht senken sollten.",
+            "-0.6231307"
+        ],
+        "most_sim_1": [
+            "Die Durchführung unserer Sicherheitsagenturen in Bezug auf den Buggel des Ost-Timor-Parlaments, die Prozesse von Zeugen K und Bernard Collaery, das geheime Verfahren und die Inhaftierung eines ehemaligen Geheimdienstbefragten, die jüngsten Suchbefehle, die gegen zwei Journalisten hingerichtet wurden, und die Aussicht auf Anklage gegen einen von ihnen in Bezug auf die Geschichten über mutmaßliche Morde australischer Soldaten in Afghanistan zeigen, warum wir unsere Wachsamkeit nicht senken sollten.",
+            "-0.41368613"
+        ],
+        "most_sim_2": [
+            "Die Durchführung unserer Sicherheitsagenturen in Bezug auf den Buggel des Ost-Timor-Parlaments, die Prozesse von Zeugen K und Bernard Collaery, das geheime Verfahren und die Inhaftierung eines ehemaligen Geheimdienstugestellten, die jüngsten Suchbefehle, die gegen zwei Journalisten hingerichtet wurden, und die Aussicht auf Anklage gegen einen von ihnen in Bezug auf die Geschichten über mutmaßliche Morde australischer Soldaten in Afghanistan zeigen, warum wir unsere Wachsamkeit nicht senken sollten.",
+            "-0.39596248"
+        ],
+        "most_sim_3": [
+            "Die Durchführung unserer Sicherheitsagenturen in Bezug auf den Buggel des Ost-Timor-Parlaments, die Prozesse von Zeugen K und Bernard Collaery, das geheime Verfahren und die Inhaftierung eines ehemaligen Nachrichtenoffiziers, die jüngsten Suchbefehle, die gegen zwei Journalisten hingerichtet wurden, und die Aussicht auf Anklage gegen einen von ihnen in Bezug auf die Geschichten über mutmaßliche Morde australischer Soldaten in Afghanistan zeigen, warum wir unsere Wachsamkeit nicht senken sollten.",
+            "-0.38917226"
+        ],
+        "ref": [
+            "Die Durchführung unserer Sicherheitsagenturen in Bezug auf den Buggel des Ost-Timor-Parlaments, die Prozesse von Zeugen K und Bernard Collaery, das geheime Verfahren und die Inhaftierung eines ehemaligen Geheimdienstbeauftragten, die jüngsten Suchbefehle, die gegen zwei Journalisten hingerichtet wurden, und die Aussicht auf Anklage gegen einen von ihnen in Bezug auf die Geschichten über mutmaßliche Morde australischer Soldaten in Afghanistan zeigen, warum wir unsere Wachsamkeit nicht senken sollten.",
+            "-0.38208947"
+        ],
+        "src": [
+            "The conduct of our security agencies in relation to the bugging of the East Timor parliament, the trials of Witness K and Bernard Collaery, the secret trial and imprisonment of a former intelligence officer, the recent search warrants executed on two journalists, and the prospect of charges against one of them in relation to stories on suspected murders by Australian soldiers in Afghanistan show why we should not be lowering our guard.",
+            "-2.5866823"
+        ]
+    }
+}
